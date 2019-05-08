@@ -1,0 +1,8 @@
+The datasets were all found on February 3rd 2019 and selected for project use on February 21st 2019.
+After consultation on April 7th, I realized that my data structure for my csv files was unparasable, so I 
+had to do most of the cleaning/reformatting by hand rather than code.
+On April 13th, I cleaned the FIVE Grappling Data set, to a more horizontal, rectangular format
+Upon seeing the some weight classes for fighters could not be found  from the placement rankings of non-absolute weight classes,
+I found a bracket data set that described many of them. Some of the fighters still could not be found. 
+I assume that they entered only the open weight division and were not weighed in. On April 14th, upon seeing that
+the IBJJF and SJJIF datasets were missing women's and No Gi data, I downloaded the relevant data from the source websites.
