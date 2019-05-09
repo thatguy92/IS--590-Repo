@@ -26,10 +26,35 @@ These markdown files document the original copy and pasted data sets and how the
 ###File Creation Details
 The following data files were all created by hand and have notes about their creation and metamorphosis to intermediate files at the bottom of them:
 
-2018 SJJIF World Championship Male NoGi.xlsx
-IBJJF Worlds 2018 Data.xlsx
-IBJJF Worlds 2018 Masters Data.xlsx
-2018 Five Grappling Data
+2018 SJJIF World Championship Male NoGi(Hand Gathered).xlsx
+
+IBJJF Worlds 2018 Data(Hand Gathered).xlsx
+
+IBJJF Worlds 2018 Masters Data(Hand Gathered).xlsx
+
+2018 Five Grappling Data(Hand Gathered).xlsx
+
+### Reproducible Jupyter Notebook
+There is a notebook with reproducible code at the following file in the main folder:
+
+BJJ Reproducible Notebook.ipynb
+
+### Github Repositiory
+A GitHub repository with everything for this project except the video presentation for this project may be found at:
+
+https://github.com/thatguy92/IS--590-Repo
+
+
+### Project Mention in Resume
+
+A copy of my resume with this project highlighted is found with the following name:
+
+Ian Reid 2019 Resume 3 590-ODM.docx
+
+### Summary Slide
+The name of the summary slide of this project is the following:
+
+Ian Reid IS-590 Summary Slide.pptx
 
 
 
